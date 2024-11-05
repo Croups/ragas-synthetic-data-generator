@@ -46,11 +46,6 @@ Find your generated test dataset in generated_testset.csv
 
 - Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-- This project is licensed under the MIT License - see the LICENSE file for details.
-
-
 ## Contact
 
 - LinkedIn: www.linkedin.com/in/enes-koşar
