@@ -21,8 +21,8 @@ Before running the generator, make sure you have:
 
 1. Clone the repository:
 
-git clone https://github.com/Croups/ragas-synthetic-data-generator.git
-cd ragas-synthetic-data-generator
+- git clone https://github.com/Croups/ragas-synthetic-data-generator.git
+- cd ragas-synthetic-data-generator
 
 2. Install required packages:
 
