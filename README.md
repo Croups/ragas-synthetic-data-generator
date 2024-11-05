@@ -26,31 +26,32 @@ Before running the generator, make sure you have:
 
 2. Install required packages:
 
-pip install ragas langchain-openai langchain pandas
+- pip install ragas langchain-openai langchain pandas
 
 3. Set up your OpenAI API key:
 
-export OPENAI_API_KEY='your-api-key'
+- export OPENAI_API_KEY='your-api-key'
 
 ## Usage
 
 Place your Markdown documents in the Sample_Docs_Markdown/ directory
+
 Run the generator:
 
-python main.py
+- python main.py
 
 Find your generated test dataset in generated_testset.csv
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 ## Contact
 
-LinkedIn: www.linkedin.com/in/enes-koşar
-GitHub: https://github.com/Croups
+- LinkedIn: www.linkedin.com/in/enes-koşar
+- GitHub: https://github.com/Croups
